@@ -1,0 +1,75 @@
+<html>
+
+<header>
+<img class="icones" src="https://i.imgur.com/7xEdq60.png";>
+<img class="alphavision" src="https://i.imgur.com/0qACc2h.pngs";>
+<input placeholder>
+<img class="microfone" src="https://i.imgur.com/dHhnbJv.png";>
+<img class="menu" src="https://i.imgur.com/O7tUQK2.png";>
+</header>
+
+
+
+
+
+<footer>
+
+
+</footer>
+
+<script>
+
+</script>
+
+
+<style>
+
+input{
+display: flex;
+border-radius: 50vw;
+position: absolute;
+height: 6%;
+width: 80%;
+margin-top: 190%;
+margin-left: 9%;
+background-color: #fff9e2;
+border: #fff9e2;
+box-shadow: 0vw 4vw 20vw 0vw;
+}
+
+body{
+background-color:#FFF3C2;
+}
+
+.icones{
+height: 13%;
+width: 10%;
+position:absolute;
+left: 87%;
+border-top: 5000;
+}
+
+.alphavision{
+position: absolute;
+left: 12%;
+margin-top: 60%;
+height: 30%;
+}
+
+.microfone{
+position: absolute;
+margin-top: 192%;
+left: 77%;
+height: 4%;
+}
+
+.menu{
+    position: absolute;
+    margin-top: 2%;
+    left: 2%;
+    height: 4%;
+    width: 15%;
+}
+</style>
+
+</html>
